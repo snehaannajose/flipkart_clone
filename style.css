@@ -1211,7 +1211,7 @@ body{
 @media screen and (min-width:1024px){
     .bigger-screen-view{
         /* min-width:1024px; */
-        overflow:hidden;
+        /* overflow-x:hidden; */
     }
     .header{
         padding-bottom:56px;
